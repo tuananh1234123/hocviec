@@ -61,10 +61,7 @@ class testController extends Controller
         $array = array($simpleXml);
         dd($array[0]->channel->item[3]);
 
-        // dd( $collection['channel']['item']);   
-        // dd( $collection);
-        // $data1 = $collection['data'];  
-        // dd($data1);
+      
     }
     
 }
